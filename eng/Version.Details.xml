@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <ProductDependencies>
-    <Dependency Name="Test.A" Version="1.1.141103">
+    <Dependency Name="Test.A" Version="1.0.0">
       <Uri>https://github.com/maestro-auth-test/flow-test-a</Uri>
       <Sha>c1cc986aa20ef71a722f7888a33882463934d77e</Sha>
     </Dependency>
